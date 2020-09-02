@@ -13,7 +13,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "googleapis": "^5.2.1"
+    "googleapis": "^59.0.0"
   },
 
   "devDependencies": {
